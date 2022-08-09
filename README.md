@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Jamming App with Spotify API Project
+
+https://shaniceduncan.github.io/Jamming-Playlist-App-Spotify-API/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
